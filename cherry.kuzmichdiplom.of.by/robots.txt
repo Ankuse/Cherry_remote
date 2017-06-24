@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /bitrix/
+
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/components/
+Allow: /bitrix/panel/
